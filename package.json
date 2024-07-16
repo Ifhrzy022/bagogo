@@ -1,9 +1,8 @@
 {
-    "private": true,
     "scripts": {
-        "dev": "vite",
-        "build": "[my-framework] build --output public"
-    },
+    "build": "[my-framework] build --output public"
+  }
+},
     "devDependencies": {
         "axios": "^1.6.4",
         "laravel-vite-plugin": "^0.7.2",
